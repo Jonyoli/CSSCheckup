@@ -1,0 +1,47 @@
+body {
+    background-color:lightgreen;
+}
+#number-Seven {
+    color:white;
+    text-align: center;
+}
+
+.div-class h1{
+    font-size: 20px;
+    color:white;
+    border: white;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    padding: 20px 20px 20px 40px
+}
+
+.div-class p {
+    color:red;
+    font-size: 16px;
+}
+
+#number-One {
+    color:green;
+}
+
+#number-Two {
+    color:gold;
+}
+
+#number-Three {
+    color:white;
+}
+
+#number-Four {
+    color: blue;
+}
+
+#number-Five {
+    color:purple;
+}
+
+#number-Six {
+    color:red;
+}
